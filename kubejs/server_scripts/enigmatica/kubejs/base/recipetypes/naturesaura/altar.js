@@ -7,7 +7,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:infused_iron' },
             aura_type: 'naturesaura:overworld',
             aura: 10000,
-            time: 60,
+            time: 30,
             id: `${id_prefix}infused_iron_from_comb`
         },
         {
@@ -15,7 +15,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:infused_iron_block' },
             aura_type: 'naturesaura:overworld',
             aura: 90000,
-            time: 540,
+            time: 135,
             id: `${id_prefix}infused_iron_block_from_comb_block`
         },
         {
@@ -23,7 +23,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:tainted_gold' },
             aura_type: 'naturesaura:nether',
             aura: 10000,
-            time: 60,
+            time: 30,
             id: `${id_prefix}tainted_gold_from_comb`
         },
         {
@@ -31,7 +31,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:tainted_gold_block' },
             aura_type: 'naturesaura:nether',
             aura: 90000,
-            time: 540,
+            time: 135,
             id: `${id_prefix}tainted_gold_block_from_comb_block`
         },
         {
