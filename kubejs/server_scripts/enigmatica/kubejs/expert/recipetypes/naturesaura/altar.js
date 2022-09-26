@@ -19,7 +19,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:infused_iron_block' },
             aura_type: 'naturesaura:overworld',
             aura: 135000,
-            time: 700,
+            time: 350,
             id: 'naturesaura:altar/infused_iron_block'
         },
         {
@@ -35,7 +35,7 @@ onEvent('recipes', (event) => {
             output: { item: 'naturesaura:tainted_gold_block' },
             aura_type: 'naturesaura:nether',
             aura: 135000,
-            time: 700,
+            time: 350,
             id: 'naturesaura:altar/tainted_gold_block'
         },
         {
